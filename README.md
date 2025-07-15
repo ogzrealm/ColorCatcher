@@ -26,6 +26,15 @@ You control a player that can change its color, and you must catch the falling b
 
 ---
 
+## 📽️ Gameplay Preview
+
+Watch the gameplay on YouTube:  
+👉 [Color Catcher - Gameplay](https://www.youtube.com/watch?v=V18XaW05ja8))
+
+Play it on Itch.io:  
+👉 [Play on itch.io](https://ogzrealm.itch.io/colorcatcher)
+
+---
 
 ## 🔧 Built With
 
