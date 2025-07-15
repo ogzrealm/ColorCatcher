@@ -31,5 +31,5 @@ You control a player that can change its color, and you must catch the falling b
 
 - Unity 6
 - C#
-- Unity UI Toolkit (for UI elements)
+- Unity UI Toolkit (for UI elements) 
 
